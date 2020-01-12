@@ -4,7 +4,13 @@
 #### linea añadida desde rama Felix
 <<<<<<< HEAD
 #### linea desde master
+<<<<<<< HEAD
 Otra linea más añadida
 =======
 #### linea desde master
 >>>>>>> df35e85c840e4ef8ca63309a7161ad682830f5c3
+=======
+=======
+#### linea desde master
+Otra linea más añadida
+>>>>>>> felix
